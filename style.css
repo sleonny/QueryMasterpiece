@@ -12,9 +12,7 @@ h3 {
 
 .search-Results {
     display: inline;
-    color: goldenrod;
-    border: 10px;
-    border-color: goldenrod;
+    border: 10px solid goldenrod;
     height: 400px;
     width: 400px;
     
