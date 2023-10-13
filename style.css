@@ -1,10 +1,21 @@
 * {
     background-color: aqua;
+    text-align: center;
 }
 
 h3 {
     font-size: xx-large;
     color: goldenrod;
     font-weight: 300;
+    
+}
+
+.search-Results {
+    display: inline;
+    color: goldenrod;
+    border: 10px;
+    border-color: goldenrod;
+    height: 400px;
+    width: 400px;
     
 }
