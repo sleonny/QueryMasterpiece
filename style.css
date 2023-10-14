@@ -3,6 +3,13 @@
     text-align: center;
 }
 
+.nav {
+    display: inline-block;
+    padding: 20px;
+    background-color: maroon;
+    color: goldenrod;
+}
+
 h3 {
     font-size: xx-large;
     color: goldenrod;
@@ -17,3 +24,4 @@ h3 {
     width: 400px;
     
 }
+
