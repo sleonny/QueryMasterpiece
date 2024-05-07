@@ -4,7 +4,7 @@
 }
 
 .nav {
-    display: inline-block;
+    display: inline;
     padding: 20px;
     background-color: maroon;
     color: goldenrod;
